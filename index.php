@@ -16,7 +16,7 @@
     </div>
 
     <div class="result">
-      <p>Paper wins over Rock. You Win!</p>
+      <p>Make your Bets!</p>
     </div>
     <div class="choices">
       <div class="choice" id="r">
